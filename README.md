@@ -1,6 +1,6 @@
 # Fortigare gre over IPSEC to cisco 
 
 
-this is toplogy i used
+Below is toplogy 
 
-[!(https://github.com/Amiri83/fortigate/blob/main/firewall.png)]
+![Toplogy](https://github.com/Amiri83/fortigate/blob/main/firewall.png)
