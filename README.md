@@ -167,7 +167,7 @@ config network
 ```
 
 
-## Check Ospf Status
+## Check OSPF Status
 
 ```sh
 
