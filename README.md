@@ -1,4 +1,4 @@
-# FConnecting Fortigate to cisco devcie using GRE over IPSEC
+# Connecting Fortigate to cisco devcie using GRE over IPSEC
 
 This is the configuration i used to connect my Fortigate 201E with OS 6.2.5 to a cisco router using gre over ipsec
 
