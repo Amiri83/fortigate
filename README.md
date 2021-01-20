@@ -1,6 +1,6 @@
 # Connecting Fortigate to cisco device using GRE over IPSEC
 
-This is the configuration i used to connect my Fortigate 201E with OS 6.2.5 to a cisco router using gre over ipsec
+This is the configuration i used to connect my Fortigate 201E (running OS 6.2.5) to a cisco router using gre over ipsec
 
 Connection was like below
 
